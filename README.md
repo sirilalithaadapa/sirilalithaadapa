@@ -10,7 +10,7 @@
 
 ✔ I am a member of Women Techmakers Engneering 
 
-📫 Get in touch
+💬Get in touch
 
 sirilalitha9088@gmail.com
 
