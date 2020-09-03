@@ -17,6 +17,8 @@ sirilalitha9088@gmail.com
 
 [![sirilalithaadapa github stats](https://github-readme-stats.vercel.app/api?username=sirilalithaadapa)](https://github.com/sirilalithaadapa/github-readme-stats
 
+![sirilalithaadapa github stats](https://github-readme-stats.vercel.app/api?username=sirilalithaadapa&hide=contribs,prs)
+
 <!--
 **sirilalithaadapa/SiriLalithaAdapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
