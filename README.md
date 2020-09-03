@@ -3,24 +3,20 @@
 <!--
 **sirilalithaadapa/SiriLalithaAdapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ About myself
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I am Siri Lalitha Adapa, currently pursuing my bachelors degree at Vasireddy Venkatadri Institue of Technology, Guntur in Computer Science and Engneering.
+- 👯 I am very much interested in data science and also love doing competitve programming.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 Get in touch
+sirilalitha9088@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
 
- About myself
 
- I am Siri Lalitha Adapa, currently pursuing my bachelors degree at Vasireddy Venkatadri Institue of Technology, Guntur in Computer Science and Engneering.
 
- I am very much interested in data science and also love doing competitve programming.
 
- Get in touch
- sirilalitha9088@gmail.com
