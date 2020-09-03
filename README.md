@@ -17,7 +17,7 @@ sirilalitha9088@gmail.com
 
 ![sirilalithaadapa github stats](https://github-readme-stats.vercel.app/api?username=sirilalithaadapa&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirilalithaadapa)](https://github.com/sirilalithaadapa/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirilalithaadapa)
 
 
 <!--
