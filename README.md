@@ -6,7 +6,6 @@
  I am Siri Lalitha Adapa, currently pursuing my bachelors degree at Vasireddy Venkatadri Institue of Technology, Guntur in Computer Science and Engneering.
 
 👯 I am very much interested in data science and also love doing competitve programming.
-https://github.githubassets.com/images/icons/emoji/unicode/2714.png
 
 👯  I am a member of Women Techmakers Engneering 
 
