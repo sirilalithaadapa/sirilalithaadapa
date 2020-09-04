@@ -5,7 +5,9 @@
 
 ✔ I am Siri Lalitha Adapa, currently pursuing my bachelors degree at Vasireddy Venkatadri Institue of Technology, Guntur in Computer Science and Engneering.
 
-✔ I am very much interested in Artificial intelligence and also love doing competitve programming. 
+✔ I am very much interested in Artificial intelligence 
+
+✔ I love doing competitve programming. 
 
 
 ✔ I am a member of Women Techmakers Engneering 
