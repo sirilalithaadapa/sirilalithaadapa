@@ -6,19 +6,13 @@
 
 in Computer Science and Engneering.
 
-✔ I am very much interested in Artificial intelligence 
+✔ I am very much interested in Artificial intelligence and Machine Learning
 
 ✔ I love doing competitve programming. 
-
-
-✔ I am a member of Women Techmakers Engneering 
 
 💬 Get in touch
 
 sirilalitha9088@gmail.com
-
-
-![sirilalithaadapa github stats](https://github-readme-stats.vercel.app/api?username=sirilalithaadapa&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirilalithaadapa&show_icons=true&theme=radical)   
 
 
 
