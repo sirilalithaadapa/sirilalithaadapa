@@ -2,9 +2,11 @@
 --------------------------------------------------------------------------
  About myself
 
-✔ I am Siri Lalitha Adapa, currently pursuing my bachelors degree at Vasireddy Venkatadri Institue of Technology, Guntur 
+✔ I am Siri Lalitha Adapa
 
-in Computer Science and Engneering.
+✔ Currently pursuing my bachelors degree at Vasireddy Venkatadri Institue of Technology, Guntur 
+
+✔ In Computer Science and Engneering.
 
 ✔ I am very much interested in Artificial intelligence and Machine Learning
 
