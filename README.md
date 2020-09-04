@@ -1,7 +1,6 @@
 ###                Hi there 👋 Good to have you here!!
 --------------------------------------------------------------------------
- 
-🌱 About myself
+ About myself
 
 ✔ I am Siri Lalitha Adapa, currently pursuing my bachelors degree at Vasireddy Venkatadri Institue of Technology, Guntur 
 
