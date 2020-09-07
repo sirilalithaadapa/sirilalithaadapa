@@ -8,7 +8,9 @@
 
 ✔ In Computer Science and Engneering.
 
-✔ I am very much interested in Artificial intelligence and Machine Learning
+✔ I am very much interested in  Programming , Research and Development  , Machine Learning ...
+
+✔ I wanna be Data Scientist 
 
 ✔ I love doing competitve programming. 
 
@@ -24,9 +26,6 @@ https://www.linkedin.com/in/sirilalitha-adapa-5417451b6/
 ![sirilalithaadapa github stats](https://github-readme-stats.vercel.app/api?username=sirilalithaadapa&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirilalithaadapa&layout=compact&show_icons=true&theme=radical)
-
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sirilalithaadapa&repo=github-readme-stats)](https://github.com/sirilalithaadapa/github-readme-stats)
 
 
 
