@@ -10,8 +10,6 @@
 
 ✔ I am very much interested in  Programming , Research and Development  , Machine Learning ...
 
-✔ I wanna be Data Scientist 
-
 ✔ I love doing competitve programming. 
 
 💬 Get in touch
