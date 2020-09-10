@@ -28,9 +28,16 @@ https://www.linkedin.com/in/sirilalitha-adapa-5417451b6/
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirilalithaadapa&layout=compact&show_icons=true&theme=radical)
 
 
-
-
-https://sirilalithaadapa.githubusercontent.com/5bf17041186bbc591a286709593ee76baf2e4711/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   aria-label="..." role="img"
+   viewBox="0 0 512 512">
+   <rect
+      width="512" height="512"
+      rx="15%"
+      fill="#fff"/>
+   ...
+</svg>
 
 
 <!--
