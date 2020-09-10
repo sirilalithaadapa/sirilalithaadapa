@@ -23,7 +23,7 @@ https://www.linkedin.com/in/sirilalitha-adapa-5417451b6/
 
 ![sirilalithaadapa github stats](https://github-readme-stats.vercel.app/api?username=sirilalithaadapa&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirilalithaadapa&layout=compact&show_icons=true&theme=radical)
+
 
 
 
