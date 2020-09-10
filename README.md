@@ -40,6 +40,11 @@ https://www.linkedin.com/in/sirilalitha-adapa-5417451b6/
 </svg>
 
 
+import logo from "super-tiny-icons/images/svg/github.svg";
+
+<img src={logo} />;
+
+
 <!--
 **sirilalithaadapa/SiriLalithaAdapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
