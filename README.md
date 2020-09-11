@@ -12,10 +12,6 @@
 
 ✔ I love doing competitve programming. 
 
-💬 Get in touch
-
-sirilalitha9088@gmail.com
-
 
 
 
