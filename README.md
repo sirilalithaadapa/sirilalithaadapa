@@ -12,7 +12,7 @@
 
 ✔ I love doing competitve programming. 
 
-
+✔ U can't find me on social media 
 
 
 
