@@ -8,11 +8,10 @@
 
 ✔ In Computer Science and Engneering.
 
-✔ I am very much interested in  Programming , Research and Development  , Machine Learning ...
+✔ I am very much interested in   Data Science, Programming , Machine Learning ...
 
 ✔ I love doing competitve programming. 
 
-✔ U can't find me on social media 
 
 
 
