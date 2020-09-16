@@ -1,6 +1,6 @@
 ###                Hi there 👋 Good to have you here!!
 --------------------------------------------------------------------------
- About myself
+ 🌱About myself
 
 ✔ I am Siri Lalitha Adapa
 
@@ -8,7 +8,7 @@
 
 ✔ In Computer Science and Engneering.
 
-✔ I am very much interested in   Data Science, Programming , Machine Learning ...
+✔ I am very much interested in Data Science.
 
 ✔ I love doing competitve programming. 
 
