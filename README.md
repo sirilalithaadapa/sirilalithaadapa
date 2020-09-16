@@ -2,7 +2,7 @@
 --------------------------------------------------------------------------
  🌱About myself
 
-✔ I am Siri Lalitha Adapa
+✅ I am Siri Lalitha Adapa
 
 ✔ Currently pursuing my bachelors degree at Vasireddy Venkatadri Institue of Technology, Guntur 
 
