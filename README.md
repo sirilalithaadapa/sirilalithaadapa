@@ -15,12 +15,11 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirilalithaadapa&layout=compact&show_icons=true&theme=dark)
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirilalithaadapa&langs_count=8&layout=compact&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirilalithaadapa&langs_count=8&layout=compact)
 
 
 
