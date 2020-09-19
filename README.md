@@ -8,7 +8,7 @@
 
 ✔ Currently pursuing my bachelors degree at Vasireddy Venkatadri Institue of Technology, Guntur . In Computer Science and Engneering.
 
-✔ I Love to be a  Data Enthusiast and a coder . 
+✔ I Love to be Data Enthusiast and a coder . 
 
 ✔ I love doing competitve programming. 
 
