@@ -4,15 +4,14 @@
  -------------------------------------------------------------------------------------------------------------------------------------
  
 
-✔ I am Siri Lalitha Adapa
-
-✔ Currently pursuing my bachelors degree at Vasireddy Venkatadri Institue of Technology, Guntur . In Computer Science and Engneering.
+✔ I am Siri Lalitha Adapa .Currently pursuing my bachelors degree at Vasireddy Venkatadri Institue of Technology, Guntur . In Computer Science and Engneering.
 
 ✔ I Love to be Data Enthusiast and a coder . 
 
 ✔ I love doing competitve programming. 
 
 ✔ Intrested in Solving Real world problems with python and java ...
+  
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
