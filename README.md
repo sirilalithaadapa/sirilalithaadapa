@@ -17,12 +17,12 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-![sirilalithaadapa github stats](https://github-readme-stats.vercel.app/api?username=sirilalithaadapa&show_icons=true&theme=radical)
+![sirilalithaadapa github stats](https://github-readme-stats.vercel.app/api?username=sirilalithaadapa&show_icons=true)
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirilalithaadapa&langs_count=8&layout=compact&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirilalithaadapa&langs_count=8&layout=compacta&show_icons=true)
 
 
 
