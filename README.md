@@ -34,6 +34,8 @@
    ...
 
 
+![visitors](https://profile-counter.glitch.me/sirilalithaadapa/count.svg?align=center)
+
 <!--
 **sirilalithaadapa/SiriLalithaAdapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
