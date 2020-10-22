@@ -1,4 +1,4 @@
-<h2 align=center>👋 Good to have you here!!</h2>
+<h2 align=center>Hi!!  👋 Good to have you here!!</h2>
 
 🌱 **About myself**<br>
 
