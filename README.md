@@ -39,11 +39,6 @@
 
 
 
-<img src="https://coolguy.website/aesthetic/assets/tulips.gif" align="left" width="40%"> <img src="https://surat.ertir.com/NtIV1wRg9zbjKJTZwJ.gif" align="right" width="30%">
-
-
-
-
 
 
 
