@@ -2,12 +2,19 @@
 
 🌱 **About myself**<br>
 
-✔️ I am **Siri Lalitha**
+✔️ I am **Siri Lalitha**...  
 
-✔️ I am very much interested in  I also love to do competitive programming. <br>
+✔️ Currently pursuing my Bachelor Degree at Vasireddy Venkatadri Institute of Technology .
 
+✔️ In Computer Science Engineering .
 
+✔️ I am very much interested in Open source . 
 
+✔️ I also love to do competitive programming.<br>
+     
+✔️ I’m currently Working on a project 👯
+ 
+😄 Pronouns: She/Her.
 <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-sirilalithaadapa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sirilalitha/)](https://www.linkedin.com/in/sirilalithaadapa/) 
