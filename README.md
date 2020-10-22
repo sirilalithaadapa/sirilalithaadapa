@@ -17,7 +17,7 @@
 😄 Pronouns: She/Her.
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-SIRI LALITHA ADAPA-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SIRI LALITHA ADAPA/)](https://www.linkedin.com/in/SIRI LALITHA ADAPA/) 
+[![Linkedin Badge](https://img.shields.io/badge/-siri-lalitha-adapa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siri-lalitha-adapa/)](https://www.linkedin.com/in/siri-lalitha-adapa/) 
 [![Gmail Badge](https://img.shields.io/badge/-sirilalitha9088@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sirilalitha9088@gmail.com)](mailto:sirilalitha9088@gmail.com)
 
 <hr>
