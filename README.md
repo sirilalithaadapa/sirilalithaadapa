@@ -5,6 +5,9 @@ Python | JAVA | C | HTML | CSS
   <img src="https://github.com/sirilalithaadapa/SiriLalithaAdapa/blob/master/HelloWorld.png">
 </p>  
      
+      
+## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/sirilalithaadapa/SiriLalithaAdapa/master/gifs/Hi.gif" width="30px">
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=sirilalithaadapa alt=sirilalithaadapa/></p>
 
 🌱 **About myself**<br>
 
