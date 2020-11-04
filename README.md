@@ -1,7 +1,10 @@
-# [SiriLalithaAdapa](https://ayushirawat.com/)
+# [SiriLalithaAdapa]
 Python | JAVA | C | HTML | CSS
 
-<h2 align=center>Hi!!            👋 Good to have you here!!</h2>
+<p align="center">
+  <img src="https://github.com/sirilalithaadapa/SiriLalithaAdapa/blob/master/HelloWorld.png">
+</p>  
+     
 
 🌱 **About myself**<br>
 
