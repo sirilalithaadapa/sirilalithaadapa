@@ -1,4 +1,4 @@
-# [SiriLalithaAdapa]
+# SiriLalithaAdapa
 Python | JAVA | C | HTML | CSS
 
 <p align="center">
