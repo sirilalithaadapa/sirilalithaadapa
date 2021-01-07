@@ -36,6 +36,15 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-sirilalitha9088@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sirilalitha9088@gmail.com)](mailto:sirilalitha9088@gmail.com)
 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sirilalithaadapa)
+
+<a href="https://www.linkedin.com/in/siri-lalitha-adapa-5417451b6/">
+  <img align="left" alt="sirilalithaadapa's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/sirilalithaadapa">
+  <img align="left" alt="sirilalithaadapa's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
 <hr>
 
 ### 📶 Stats:
