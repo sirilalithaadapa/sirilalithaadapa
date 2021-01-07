@@ -60,7 +60,10 @@
   <img align="left" alt="sirilalithaadapa's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>-->
 
-<hr>
+<br />
+
+<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/sirilalithaadapa/sirilalithaadapa/master/gifs/coder.gif" />
+
 
 
 
