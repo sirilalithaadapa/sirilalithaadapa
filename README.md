@@ -1,4 +1,4 @@
-# SiriLalithaAdapa
+# sirilalithaadapa
 
 <h2> Hello, this is Siri <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="https://c7.uihere.com/files/460/923/629/5b95b150a626e.jpg">
 
