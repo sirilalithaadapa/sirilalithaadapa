@@ -1,13 +1,15 @@
 # SiriLalithaAdapa
-Python | JAVA | C | HTML | CSS
 
-<p align="center">
-  <img src="https://github.com/sirilalithaadapa/SiriLalithaAdapa/blob/master/HelloWorld.png">
-</p>  
-     
-      
+<h2> Hello, this is Siri <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="https://c7.uihere.com/files/460/923/629/5b95b150a626e.jpg">
+
 ## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=sirilalithaadapa alt=sirilalithaadapa/></p>
+
+
+## :computer: Technologies I Love
+* Java , Python , C  
+* Java Script , HTML , CSS
+
 
 🌱 **About myself**<br>
 
