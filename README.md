@@ -62,10 +62,6 @@
 
 <br />
 
-<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/sirilalithaadapa/sirilalithaadapa/master/gifs/coder.gif" />
-
-
-
 
 ### 📶 Stats:
 
