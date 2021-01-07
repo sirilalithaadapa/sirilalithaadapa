@@ -33,9 +33,11 @@
 
 ### 📶 Stats:
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=sirilalithaadapa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=left)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirilalithaadapa&theme=dark&layout=compact&align=right&width=40%)](https://github.com/sirilalithaadapa/github-readme-stats)
-
 <img src="https://surat.ertir.com/NtIV1wRg9zbjKJTZwJ.gif" align="left" width="40%">  
+
+![sirilalithaadapa's github stats](https://github-readme-stats.vercel.app/api?username=sirilalithaadapa&theme=synthwave&show_icons=true)
+![sirilalithaadapa's github top langs](https://github-readme-stats.vercel.app/api/top-langs?username=sirilalithaadapa&show_icons=true&locale=en&layout=compact&theme=gruvbox)
+![sirilalithaadapa's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sirilalithaadapa&show_icons=true&locale=en&layout=compact&theme=gruvbox)
 
 
 ![visitors](https://profile-counter.glitch.me/sirilalithaadapa/count.svg?align="centre")
