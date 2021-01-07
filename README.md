@@ -8,20 +8,24 @@
 * Java Script , HTML , CSS
 
 
-🌱 **About myself**<br>
-
-✔️ I am **Siri Lalitha**...  
+### Know more about me:
 
 ✔️ Currently pursuing my Bachelor Degree at Vasireddy Venkatadri Institute of Technology .
 
 ✔️ In Computer Science Engineering .
 
-✔️ I am very much interested in Open source . 
+🔭 I am very much interested in Open source . 
 
 ✔️ I also love to do competitive programming.<br>
      
-✔️ I’m currently Working on a project 👯
+ 🌱 I’m currently Working on a project 👯
  
+ 💬  Ask me about anything, I would be glad to help (if I could ✨).
+ 
+ ⚡ Fun fact: <a href = "https://www.theatlantic.com/science/archive/2017/11/how-the-zombie-fungus-takes-over-ants-bodies-to-control-their-minds/545864/#:~:text=And%20its%20body%20belongs%20to,ascend%20a%20nearby%20plant%20stem."> Some fungi create zombies, then control their minds </a>
+
+<br>
+
 😄 Pronouns: She/Her.
 <br>
  
