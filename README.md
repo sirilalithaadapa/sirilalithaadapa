@@ -57,9 +57,8 @@
   <img align="left" alt="sirilalithaadapa's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
-<!-- <a href="https://www.hackerrank.com/sirilalithaadapa/">
-  <img align="left" alt="sirilalithaadapa's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>-->
+<a href="https://www.hackerrank.com/19bq1a05l4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="SiriLalithaAdapa" height="30" width="40" /></a>
+</p>
 
 <br />
 
