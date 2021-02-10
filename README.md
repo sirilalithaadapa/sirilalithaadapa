@@ -73,6 +73,9 @@
 ![sirilalithaadapa's github top langs](https://github-readme-stats.vercel.app/api/top-langs?username=sirilalithaadapa&show_icons=true&locale=en&layout=compact&theme=gruvbox)
 ![sirilalithaadapa's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sirilalithaadapa&show_icons=true&locale=en&layout=compact&theme=gruvbox)
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="sirilalithaadapa Spotify Playing" width="350" autoplay />](https://open.spotify.com/track/0RGp4KA9wvndxqPIWoKwnD)
 
 
 **Visitors Count**  
