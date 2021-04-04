@@ -24,8 +24,10 @@
 🔭 I am very much interested in Open source . 
 
 ✔️ I also love to do competitive programming.<br>
+
+✔️ I’m currently focoused on GSoC (Goggle Summer of Code) 🌍
      
- 🌱 I’m currently Working on a project 👯
+ 🌱 At present learning Data Structure and Algorithms 👯
  
  💬  Ask me about anything, I would be glad to help (if I could ✨).
  
