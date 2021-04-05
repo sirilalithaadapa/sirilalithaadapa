@@ -94,7 +94,8 @@
 <img src="https://octodex.github.com/images/twenty-percent-cooler-octocat.png" height="160px" width="160px">
 <img src="https://octodex.github.com/images/saritocat.png" height="160px" width="160px">
 -->
-
+<h3> ⚙️  GitHub Analytics </h3>
+<img src="https://activity-graph.herokuapp.com/graph?username=sandyglb27&show_icons=true&count_private=true&area=true&&color=333333&line=ABD6DFFF&point=89ABE3FF&hide_border=true" />
 
 
 ![visitors](https://profile-counter.glitch.me/sirilalithaadapa/count.svg?align="centre")
