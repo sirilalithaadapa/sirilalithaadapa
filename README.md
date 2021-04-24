@@ -25,7 +25,7 @@
 
 ✔️ I also love to do competitive programming.<br>
 
-✔️ I’m currently focoused on GSoC (Goggle Summer of Code) 🌍
+✔️ I’m currently focoused on Google Cloud  🌍
      
  🌱 At present learning Data Structure and Algorithms 👯
  
