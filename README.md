@@ -98,5 +98,19 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=sirilalithaadapa&show_icons=true&count_private=true&area=true&&color=333333&line=ABD6DFFF&point=89ABE3FF&hide_border=true" />
 
 
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/sirilalithaadapa/count.svg" />
+</p>
+
+<img src="stats.gif" width="90%"><br/><br/>
+
+***
+
+
+
+<!--
+
 ![visitors](https://profile-counter.glitch.me/sirilalithaadapa/count.svg?align="centre")
 
