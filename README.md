@@ -99,16 +99,5 @@
 
 
 
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/sirilalithaadapa/count.svg" />
-</p>
-
-<img src="stats.gif" width="90%"><br/><br/>
-
-***
-
-**sirilalithaadapa/sirilalithaadapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ![visitors](https://profile-counter.glitch.me/sirilalithaadapa/count.svg?align="centre")
 
