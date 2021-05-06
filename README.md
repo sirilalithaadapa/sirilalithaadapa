@@ -88,14 +88,14 @@
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{sirilalithaadapa}/count.svg)
 
-<!-- https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512 
+<!-- https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512>
 
 <img src="https://octodex.github.com/images/momtocat.png" height="160px" width="160px">
 <img src="https://octodex.github.com/images/twenty-percent-cooler-octocat.png" height="160px" width="160px">
 <img src="https://octodex.github.com/images/saritocat.png" height="160px" width="160px">
 -->
 
-| ![Jokes Card](https://readme-jokes.vercel.app/api) |
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 ![visitors](https://profile-counter.glitch.me/sirilalithaadapa/count.svg?align="centre")
