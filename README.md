@@ -29,6 +29,8 @@
      
  🌱 At present learning Data Structure and Algorithms 👯
  
+ 😎 The only way to become a clever programmer is to: Practice. Practice. Practice. Code. Code. Code !
+ 
  💬  Ask me about anything, I would be glad to help (if I could ✨).
  
  ⚡ Fun fact: <a href = "https://www.theatlantic.com/science/archive/2017/11/how-the-zombie-fungus-takes-over-ants-bodies-to-control-their-minds/545864/#:~:text=And%20its%20body%20belongs%20to,ascend%20a%20nearby%20plant%20stem."> Some fungi create zombies, then control their minds </a>
