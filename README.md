@@ -95,6 +95,9 @@
 <img src="https://octodex.github.com/images/saritocat.png" height="160px" width="160px">
 -->
 
+[![sirilalithaadapa's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sirilalithaadapa&theme=xcode)](https://git.io/sirilalithaadapa)
+
+
 | ![sirilalithaadapa GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sirilalithaadapa&show_icons=true) |
 | --- | --- |
 | ![sirilalithaadapa GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sirilalithaadapa) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
