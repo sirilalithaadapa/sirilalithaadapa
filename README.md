@@ -95,6 +95,8 @@
 <img src="https://octodex.github.com/images/saritocat.png" height="160px" width="160px">
 -->
 
+[![sirilalithaadapa's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sirilalithaadapa&theme=xcode)](https://git.io/sirilalithaadapa)
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
