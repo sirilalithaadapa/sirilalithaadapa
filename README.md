@@ -94,9 +94,10 @@
 <img src="https://octodex.github.com/images/twenty-percent-cooler-octocat.png" height="160px" width="160px">
 <img src="https://octodex.github.com/images/saritocat.png" height="160px" width="160px">
 -->
-<h3> ⚙️  GitHub Analytics </h3>
-<img src="https://activity-graph.herokuapp.com/graph?username=sirilalithaadapa&show_icons=true&count_private=true&area=true&&color=333333&line=ABD6DFFF&point=89ABE3FF&hide_border=true" />
 
+| ![sirilalithaadapa GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sirilalithaadapa&show_icons=true) |
+| --- | --- |
+| ![sirilalithaadapa GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sirilalithaadapa) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
 
 
 ![visitors](https://profile-counter.glitch.me/sirilalithaadapa/count.svg?align="centre")
