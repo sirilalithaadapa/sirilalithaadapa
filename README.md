@@ -79,8 +79,9 @@
 ### 📶 Stats:
 
 ![sirilalithaadapa's github stats](https://github-readme-stats.vercel.app/api?username=sirilalithaadapa&theme=synthwave&show_icons=true)
-![sirilalithaadapa's github top langs](https://github-readme-stats.vercel.app/api/top-langs?username=sirilalithaadapa&show_icons=true&locale=en&layout=compact&theme=gruvbox)
 ![sirilalithaadapa's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sirilalithaadapa&show_icons=true&locale=en&layout=compact&theme=gruvbox)
+![sirilalithaadapa's github top langs](https://github-readme-stats.vercel.app/api/top-langs?username=sirilalithaadapa&show_icons=true&locale=en&layout=compact&theme=gruvbox)
+
 
 ### Spotify Playing 🎧
 
