@@ -80,19 +80,12 @@
 
 ![sirilalithaadapa's github stats](https://github-readme-stats.vercel.app/api?username=sirilalithaadapa&theme=synthwave&show_icons=true)
 ![sirilalithaadapa's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sirilalithaadapa&show_icons=true&locale=en&layout=compact&theme=gruvbox)
-![sirilalithaadapa's github top langs](https://github-readme-stats.vercel.app/api/top-langs?username=sirilalithaadapa&show_icons=true&locale=en&layout=compact&theme=gruvbox)
+![sirilalithaadapa's github top langs](https://github-readme-stats.vercel.app/api/top-langs?username=sirilalithaadapa&show_icons=true&locale=en&layout=compact&theme=synthwave)
 
 
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="sirilalithaadapa Spotify Playing" width="350" autoplay />](https://open.spotify.com/track/0RGp4KA9wvndxqPIWoKwnD)
-
-
-**Visitors Count**  
-
-![VisitorCount](https://profile-counter.glitch.me/{sirilalithaadapa}/count.svg)
-
-<!-- https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512>
 
 
 <img src="https://octodex.github.com/images/momtocat.png" height="160px" width="160px">
