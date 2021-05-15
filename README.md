@@ -24,8 +24,6 @@
 🔭 I am very much interested in Open source . 
 
 ✔️ I also love to do competitive programming.<br>
-
-✔️ I’m currently focoused on Google Cloud  🌍
      
  🌱 At present learning Data Structure and Algorithms 👯
  
@@ -61,6 +59,10 @@
   </a>
 
 <br />
+
+<h3> 🏆 Badges </h3>
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/sirilalithaadapa/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/sirilalithaadapa/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/sirilalithaadapa/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
 
 
 ## :computer: Technologies I Love
