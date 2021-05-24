@@ -75,16 +75,11 @@
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 
-
-
-
 ### 📶 Stats:
 
 ![sirilalithaadapa's github stats](https://github-readme-stats.vercel.app/api?username=sirilalithaadapa&theme=synthwave&show_icons=true)
-<script src="https://gist.github.com/cmulay/6b9c7d8794726b00fd429df1a447a270.js"></script>
-![sirilalithaadapa's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sirilalithaadapa&show_icons=true&locale=en&layout=compact&theme=gruvbox)
 ![sirilalithaadapa's github top langs](https://github-readme-stats.vercel.app/api/top-langs?username=sirilalithaadapa&show_icons=true&locale=en&layout=compact&theme=synthwave)
-
+![sirilalithaadapa's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sirilalithaadapa&show_icons=true&locale=en&layout=compact&theme=gruvbox)
 
 ### Spotify Playing 🎧
 
@@ -94,7 +89,6 @@
 <img src="https://octodex.github.com/images/momtocat.png" height="160px" width="160px">
 <img src="https://octodex.github.com/images/twenty-percent-cooler-octocat.png" height="160px" width="160px">
 <img src="https://octodex.github.com/images/saritocat.png" height="160px" width="160px">
--->
 
 [![sirilalithaadapa's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sirilalithaadapa&theme=xcode)](https://git.io/sirilalithaadapa)
 
