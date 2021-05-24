@@ -81,6 +81,7 @@
 ### 📶 Stats:
 
 ![sirilalithaadapa's github stats](https://github-readme-stats.vercel.app/api?username=sirilalithaadapa&theme=synthwave&show_icons=true)
+<script src="https://gist.github.com/cmulay/6b9c7d8794726b00fd429df1a447a270.js"></script>
 ![sirilalithaadapa's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sirilalithaadapa&show_icons=true&locale=en&layout=compact&theme=gruvbox)
 ![sirilalithaadapa's github top langs](https://github-readme-stats.vercel.app/api/top-langs?username=sirilalithaadapa&show_icons=true&locale=en&layout=compact&theme=synthwave)
 
