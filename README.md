@@ -1,24 +1,14 @@
-# sirilalithaadapa
 ### Hey there, I'm [sirilalithaadapa](https://sirilalithaadapa.github.io)! 👋 👨‍💻 ![](https://komarev.com/ghpvc/?username=sirilalithaadapa&label=Views)
 
-✔️ In Computer Science Engineering .
+- 🔭 I’m currently working on [Emotion Recognition] 
+- ✔️ I also love to do competitive programming.<br>
+- 🌱 At present learning Data Structure and Algorithms 👯
+- 🤔 I’m looking for help with [Emotion Recognition] 
+- 😎 The only way to become a clever programmer is to: Practice. Practice. Practice. Code. Code. Code !
+- 💬  Ask me about anything [Here](https://github.com/sirilalithaadapa/sirilalithaadapa/discussions)
+- 📫 How to reach me: [Post here](https://github.com/sirilalithaadapa/sirilalithaadapa/discussions)
 
-🔭 I am very much interested in Open source . 
-
-✔️ I also love to do competitive programming.<br>
-     
- 🌱 At present learning Data Structure and Algorithms 👯
- 
- 😎 The only way to become a clever programmer is to: Practice. Practice. Practice. Code. Code. Code !
- 
- 💬  Ask me about anything, I would be glad to help (if I could ✨).
- 
- ⚡ Fun fact: <a href = "https://www.theatlantic.com/science/archive/2017/11/how-the-zombie-fungus-takes-over-ants-bodies-to-control-their-minds/545864/#:~:text=And%20its%20body%20belongs%20to,ascend%20a%20nearby%20plant%20stem."> Some fungi create zombies, then control their minds </a>
-
-😄 Pronouns: She/Her.
-
-## :computer: Technologies I Love
-
+## :computer: Technologies 
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C%20-%23E34F26.svg?&style=for-the-badge&logo=C&logoColor=white)
