@@ -1,20 +1,5 @@
 # sirilalithaadapa
-
-<h2> Hello, This is Siri <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40"></h1>
-
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sirilalithaadapa)
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/sirilalithaadapa)
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=sirilalithaadapa&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/sirilalithaadapa/sirilalithaadapa?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
- <!-- <a href="https://github.com/sirilalithaadapa/sirilalithaadapa/actions">
-   <img alt="github-activity" src="https://github.com/sirilalithaadapa/sirilalithaadapa/workflows/update-gh-activity/badge.svg">
-  </a> -->
-
-
-### 🤩 Know more about me:
-
-✔️ Currently pursuing my Bachelor Degree at Vasireddy Venkatadri Institute of Technology .
+### Hey there, I'm [sirilalithaadapa](https://sirilalithaadapa.github.io)! 👋 👨‍💻 ![](https://komarev.com/ghpvc/?username=sirilalithaadapa&label=Views)
 
 ✔️ In Computer Science Engineering .
 
