@@ -3,8 +3,6 @@
 <h2> Hello, this is Siri <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40"></h1>
  <img src="https://cdn.dribbble.com/users/1519660/screenshots/4536550/girl-_-laptop.gif" align="right" alt="Logo" width="420" height="320">
 
-
-
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sirilalithaadapa)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/sirilalithaadapa)
@@ -86,14 +84,7 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="sirilalithaadapa Spotify Playing" width="350" autoplay />](https://open.spotify.com/track/0RGp4KA9wvndxqPIWoKwnD)
 
-
-<img src="https://octodex.github.com/images/momtocat.png" height="160px" width="160px">
-<img src="https://octodex.github.com/images/twenty-percent-cooler-octocat.png" height="160px" width="160px">
-<img src="https://octodex.github.com/images/saritocat.png" height="160px" width="160px">
-
 [![sirilalithaadapa's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sirilalithaadapa&theme=xcode)](https://git.io/sirilalithaadapa)
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 ![visitors](https://profile-counter.glitch.me/sirilalithaadapa/count.svg?align="centre")
