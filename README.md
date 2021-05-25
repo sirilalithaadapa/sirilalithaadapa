@@ -90,11 +90,10 @@ Java                     6 repos             ██░░░░░░░░░�
 
 ```
 
-
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/sirilalithaadapa/sirilalithaadapa/main/charts/bar_graph.png) 
-
+<h3> ⚙️  GitHub Analytics </h3>
+<img src="https://activity-graph.herokuapp.com/graph?username=sirilalithaadapa&show_icons=true&count_private=true&area=true&&color=33333&line=ABD6DFFF&point=89ABE3FF&hide_border=true" />
 
 <!--END_SECTION:waka-->
 
