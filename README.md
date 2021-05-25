@@ -24,3 +24,89 @@
 
 [![sirilalithaadapa's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sirilalithaadapa&theme=xcode)](https://git.io/sirilalithaadapa)
 
+
+<p>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=sirilalithaadapa&theme=dark&hide_border=true" alt="sirilalithaadapa - Github Readme Streak Stats" />
+</p>
+
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sirilalithaadapa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+
+<!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-612503%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 1,871 Contributions in the Year 2021
+ > 
+> 📦 840.0 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 66 Public Repositories 
+ > 
+> 🔑 17 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    159 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   7.57% 
+🌆 Daytime    729 commits    ████████░░░░░░░░░░░░░░░░░   34.71% 
+🌃 Evening    754 commits    █████████░░░░░░░░░░░░░░░░   35.9% 
+🌙 Night      458 commits    █████░░░░░░░░░░░░░░░░░░░░   21.81%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       189 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.0% 
+Tuesday      297 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.14% 
+Wednesday    238 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.33% 
+Thursday     331 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.76% 
+Friday       422 commits    █████░░░░░░░░░░░░░░░░░░░░   20.1% 
+Saturday     342 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.29% 
+Sunday       281 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.38%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    75 hrs 7 mins       ████████████████████████░   97.24% 
+JavaScript               54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18% 
+JSON                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5% 
+YAML                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45% 
+Python                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43%
+
+🔥 Editors: 
+Browser                  69 hrs 40 mins      ██████████████████████░░░   90.19% 
+Unknown Editor           3 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   3.88% 
+VS Code                  2 hrs 31 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   3.27% 
+Bash                     2 hrs 3 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.66%
+
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     23 repos            ███████░░░░░░░░░░░░░░░░░░   29.87% 
+JavaScript               15 repos            ████░░░░░░░░░░░░░░░░░░░░░   19.48% 
+EJS                      12 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.58% 
+Python                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.79% 
+Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.79%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/sirilalithaadapa/sirilalithaadapa/main/charts/bar_graph.png) 
+
+
+<!--END_SECTION:waka-->
+
+*NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
+
