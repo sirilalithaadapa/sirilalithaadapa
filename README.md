@@ -1,17 +1,11 @@
 # sirilalithaadapa
 
 <h2> Hello, this is Siri <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40"></h1>
- <img src="https://cdn.dribbble.com/users/1519660/screenshots/4536550/girl-_-laptop.gif" align="right" alt="Logo" width="420" height="320">
-
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sirilalithaadapa)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/sirilalithaadapa)
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=sirilalithaadapa&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/sirilalithaadapa/sirilalithaadapa?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
- <!-- <a href="https://github.com/sirilalithaadapa/sirilalithaadapa/actions">
-   <img alt="github-activity" src="https://github.com/sirilalithaadapa/sirilalithaadapa/workflows/update-gh-activity/badge.svg">
-  </a> -->
-
 
 ### 🤩 Know more about me:
 
@@ -58,8 +52,6 @@
 
 <br />
 
-<a img src='https://dev.to/sirilalithaadapa' width='40' height='40'>
-
 <h3> 🏆 Badges </h3>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
@@ -85,7 +77,4 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="sirilalithaadapa Spotify Playing" width="350" autoplay />](https://open.spotify.com/track/0RGp4KA9wvndxqPIWoKwnD)
 
 [![sirilalithaadapa's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sirilalithaadapa&theme=xcode)](https://git.io/sirilalithaadapa)
-
-
-![visitors](https://profile-counter.glitch.me/sirilalithaadapa/count.svg?align="centre")
 
