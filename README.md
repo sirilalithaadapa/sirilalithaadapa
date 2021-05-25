@@ -2,7 +2,6 @@
 
 <h2> Hello, this is Siri <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40"></h1>
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sirilalithaadapa)
-
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/sirilalithaadapa)
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=sirilalithaadapa&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/sirilalithaadapa/sirilalithaadapa?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
