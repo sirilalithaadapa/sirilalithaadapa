@@ -32,31 +32,6 @@
 
 😄 Pronouns: She/Her.
 
-## Connect with me
-
-[![Gmail Badge](https://img.shields.io/badge/-sirilalitha9088@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sirilalitha9088@gmail.com)](mailto:sirilalitha9088@gmail.com)
-
-<a href="https://www.linkedin.com/in/siri-lalitha-adapa-5417451b6/">
-  <img align="left" alt="sirilalithaadapa's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://github.com/sirilalithaadapa">
-  <img align="left" alt="sirilalithaadapa's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
-<a href="https://t.me/sirilalitha">
-  <img align="left" alt="sirilalithaadapa's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-
-<a href="https://www.hackerrank.com/19bq1a05l4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="SiriLalithaAdapa" height="30" width="40" /></a>
-</p>
-<a href="https://twitter.com/SiriLalitha1">
-    <img align="left" alt="sirilalithaadapa
- | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a>
-
-<br />
-
 ## :computer: Technologies I Love
 
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
