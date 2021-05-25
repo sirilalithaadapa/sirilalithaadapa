@@ -85,6 +85,3 @@
 
 [![sirilalithaadapa's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sirilalithaadapa&theme=xcode)](https://git.io/sirilalithaadapa)
 
-
-![visitors](https://profile-counter.glitch.me/sirilalithaadapa/count.svg?align="centre")
-
