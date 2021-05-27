@@ -16,15 +16,16 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="sirilalithaadapa Spotify Playing" width="350" autoplay />](https://open.spotify.com/track/0RGp4KA9wvndxqPIWoKwnD)
 
 <p>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=sirilalithaadapa&theme=dark&hide_border=true" alt="sirilalithaadapa - Github Readme Streak Stats" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=AravindVNair99&theme=dark&hide_border=true" alt="AravindVNair99 - Github Readme Streak Stats" />
 </p>
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sirilalithaadapa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-612503%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-630351%20lines%20of%20code-blue)
+
 
 **🐱 My Github Data** 
 
