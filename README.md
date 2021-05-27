@@ -94,7 +94,7 @@ C++                      3 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/anmol098/anmol098/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/sirilalithaadapa/sirilalithaadapa/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
