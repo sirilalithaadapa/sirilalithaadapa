@@ -1,9 +1,9 @@
 ### Hey there, I'm [sirilalithaadapa](https://sirilalithaadapa.github.io)! 👋 👨‍💻 ![](https://komarev.com/ghpvc/?username=sirilalithaadapa&label=Views)
 
-- 🔭 I’m currently working on [Emotion Recognition] 
+- 🔭 I’m currently working on Emotion Recognition & [FACE-VVIT](https://github.com/FACE-VVIT)
 - ✔️ I also love to do competitive programming.<br>
 - 🌱 At present learning Data Structure and Algorithms 👯
-- 🤔 I’m looking for help with [Emotion Recognition] 
+- 🤔 I’m looking for help with Emotion Recognition & [FACE-VVIT](https://github.com/FACE-VVIT)
 - 😎 The only way to become a clever programmer is to: Practice. Practice. Practice. Code. Code. Code !
 - 💬  Ask me about anything [Here](https://github.com/sirilalithaadapa/sirilalithaadapa/discussions)
 - 📫 How to reach me: [Post here](https://github.com/sirilalithaadapa/sirilalithaadapa/discussions)
@@ -29,7 +29,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆  920 Contributions in the Year 2021
+> 🏆  923 Contributions in the Year 2021
  > 
 > 📦 80.0 kB Used in Github's Storage 
  > 
@@ -55,7 +55,7 @@ Wednesday    62 commits     ███░░░░░░░░░░░░░░�
 Thursday     80 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.74% 
 Friday       62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.97% 
 Saturday     60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.55% 
-Sunday       1  commits     ██████░░░░░░░░░░░░░░░░░░░   23.85%
+Sunday       91  commits     ██████░░░░░░░░░░░░░░░░░░░   23.85%
 
 ```
 
