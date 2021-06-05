@@ -1,9 +1,9 @@
 ### Hey there, I'm [sirilalithaadapa](https://sirilalithaadapa.github.io)! 👋 👨‍💻 ![](https://komarev.com/ghpvc/?username=sirilalithaadapa&label=Views)
 
-- 🔭 I’m currently working on Emotion Recognition & [FACE-VVIT](https://github.com/FACE-VVIT)
+- 🔭 I’m currently working on [Emotion Recognition](https://github.com/sirilalithaadapa/Emotion-Recognition) & [FACE-VVIT](https://github.com/FACE-VVIT)
 - ✔️ I also love to do competitive programming.<br>
 - 🌱 At present learning Data Structure and Algorithms 👯
-- 🤔 I’m looking for help with Emotion Recognition & [FACE-VVIT](https://github.com/FACE-VVIT)
+- 🤔 I’m looking for help with [Emotion Recognition](https://github.com/sirilalithaadapa/Emotion-Recognition) & [FACE-VVIT](https://github.com/FACE-VVIT)
 - 😎 The only way to become a clever programmer is to: Practice. Practice. Practice. Code. Code. Code !
 - 💬  Ask me about anything [Here](https://github.com/sirilalithaadapa/sirilalithaadapa/discussions)
 - 📫 How to reach me: [Post here](https://github.com/sirilalithaadapa/sirilalithaadapa/discussions)
