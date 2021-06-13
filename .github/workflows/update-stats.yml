@@ -16,6 +16,9 @@ jobs:
           GH_TOKEN: ${{ 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.GH_TOKEN }}
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
+          SHOW_COMMIT:  "False"
+          SHOW_LANGUAGE: "False"
+          
           
 
           
