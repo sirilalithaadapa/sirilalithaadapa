@@ -16,6 +16,8 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="sirilalithaadapa Spotify Playing" width="350" autoplay />](https://open.spotify.com/track/0RGp4KA9wvndxqPIWoKwnD)
 
+ <!--START_SECTION:waka-->
+ 
 <p>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=sirilalithaadapa&theme=dark&hide_border=true" alt="sirilalithaadapa - Github Readme Streak Stats" />
 </p>
@@ -35,6 +37,6 @@
 
 ![Metrics](https://metrics.lecoq.io/sirilalithaadapa?template=classic&config.timezone=Asia%2FCalcutta)
 
-
+<!--END_SECTION:waka-->
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
 
