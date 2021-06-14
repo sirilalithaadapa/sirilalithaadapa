@@ -29,7 +29,7 @@
  <!--START_SECTION:waka-->
  
 ```text
-Week: 06 June, 2021 - 13 June, 2021
+This Week i spent :
 
 HTML         33 mins         ███████████████▓░░░░░░░░░   63.05 % 
 Git Config   11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.06 % 
