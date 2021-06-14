@@ -15,8 +15,19 @@
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="sirilalithaadapa Spotify Playing" width="350" autoplay />](https://open.spotify.com/track/0RGp4KA9wvndxqPIWoKwnD)
+ 
+ 
+<p>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=sirilalithaadapa&theme=dark&hide_border=true" alt="sirilalithaadapa - Github Readme Streak Stats" />
+</p>
+
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sirilalithaadapa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+
 
  <!--START_SECTION:waka-->
+ 
 ```text
 Week: 06 June, 2021 - 13 June, 2021
 
