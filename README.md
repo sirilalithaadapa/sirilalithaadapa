@@ -25,10 +25,9 @@
   <summary><b>⚡ Github Stats</b></summary>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sirilalithaadapa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 
- 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 June, 2021 - 13 June, 2021
+My Week 
 
 HTML         33 mins         ███████████████▓░░░░░░░░░   63.05 % 
 Git Config   11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.06 % 
@@ -36,7 +35,7 @@ Python       4 mins          ██░░░░░░░░░░░░░░░
 JavaScript   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 CSS          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 ```
-  Last Updated on 14/06/2021
+  Last Updated on 15/06/2021
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
