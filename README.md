@@ -24,20 +24,6 @@
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sirilalithaadapa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
-
-<!--START_SECTION:waka-->
-```text
-My Week 
-
-HTML         33 mins         ███████████████▓░░░░░░░░░   63.05 % 
-Git Config   11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.06 % 
-Python       4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-JavaScript   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-CSS          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-```
-  Last Updated on 14/06/2021
-<!--END_SECTION:waka-->
-
  
 <h3> ⚙️  GitHub Analytics </h3>
 <img src="https://activity-graph.herokuapp.com/graph?username=sirilalithaadapa&show_icons=true&count_private=true&area=true&&color=333333&line=ABD6DFFF&point=89ABE3FF&hide_border=true" />
