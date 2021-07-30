@@ -7,7 +7,7 @@
 - 😎 The only way to become a clever programmer is to: Practice. Practice. Practice. Code. Code. Code !
 - 💬  Ask me about anything [Here](https://github.com/sirilalithaadapa/sirilalithaadapa/discussions)
 - 📫 How to reach me: [Post here](https://github.com/sirilalithaadapa/sirilalithaadapa/discussions)
-- ⚡ Fun fact: My psychiatrist say me to have some sleep 🙃
+- ⚡ Fun fact: Samsung tests phone durability with a butt-shaped robot 
 
 
 <h3 align="left">Languages and Tools:</h3>
