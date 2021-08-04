@@ -17,25 +17,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sirilalithaadapa&theme=dark&hide_border=true" alt="sirilalithaadapa - Github Readme Streak Stats" />
 </p>
 
-<details>	
-  <summary><b>⚡ GitHub and WakaTime Stats</b></summary>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sirilalithaadapa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
-
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-616929%20lines%20of%20code-blue)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirilalithaadapa&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--END_SECTION:waka-->
-
-![sirilalithaadapa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sirilalithaadapa)
- 
-<br><br>
-
-<p align="center">
-
-<img width="500" src="https://metrics.lecoq.io/sirilalithaadapa" alt="Github Metrics">
-  
-<br>
   
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
