@@ -26,10 +26,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirilalithaadapa&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sirilalithaadapa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
- 
 <!--END_SECTION:waka-->
 
 ![sirilalithaadapa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sirilalithaadapa)
