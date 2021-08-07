@@ -17,6 +17,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sirilalithaadapa&theme=dark&hide_border=true" alt="sirilalithaadapa - Github Readme Streak Stats" />
 </p>
 
+#
+
+<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+<br/>
 
 <details>	
   <summary><b>⚡ GitHub and WakaTime Stats</b></summary>
