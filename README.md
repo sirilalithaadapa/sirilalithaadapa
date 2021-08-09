@@ -35,6 +35,20 @@
 <p><img src="https://metrics.lecoq.io/sirilalithaadapa"/></p>
    </div>
 </hr>
+
+
+
+### All repos
+
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sirilalithaadapa&skills=JavaScript,CSS,SCSS,TypeScript&show-other-skills=true"
+/>
+
+### Public repos
+
+![stats][]
+Stats by [tipsy/profile-summary-for-github][]
+
 <!--END_SECTION:waka-->
   
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
