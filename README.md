@@ -41,7 +41,7 @@
 ### All repos
 
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sirilalithaadapa&skills=JavaScript,CSS,SCSS,TypeScript&show-other-skills=true"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sirilalithaadapa&skills=JavaScript,Java,Python,HTML&show-other-skills=true"
 />
 
 ### Public repos
