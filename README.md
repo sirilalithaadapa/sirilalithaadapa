@@ -36,18 +36,18 @@
    </div>
 </hr>
 
-
-
 ### All repos
 
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sirilalithaadapa&skills=JavaScript,Java,Python,HTML&show-other-skills=true"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sirilalithaadapa&skills=JavaScript,CSS,SCSS,TypeScript&show-other-skills=true"
 />
 
 ### Public repos
 
 ![stats][]
 Stats by [tipsy/profile-summary-for-github][]
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sirilalithaadapa/Israel-Laguan)
 
 <!--END_SECTION:waka-->
   
