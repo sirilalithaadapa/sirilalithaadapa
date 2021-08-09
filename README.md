@@ -36,14 +36,7 @@
    </div>
 </hr>
 
-### All repos
 
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sirilalithaadapa&skills=JavaScript,Python,Java,HTML&show-other-skills=true"
-/>
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sirilalithaadapa/sirilalithaadapa)
 
 <!--END_SECTION:waka-->
   
