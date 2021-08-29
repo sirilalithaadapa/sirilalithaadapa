@@ -1,9 +1,9 @@
 ### Hey there, I'm [sirilalithaadapa](https://sirilalithaadapa.github.io)! 👋 👨‍💻 ![](https://komarev.com/ghpvc/?username=sirilalithaadapa&label=Views)
 
-- 🔭 I’m currently working on [FACE-VVIT](https://github.com/FACE-VVIT), [Engineering_Resources](https://github.com/sirilalithaadapa/Engineering_Resources) & [Recruitment Management System](https://github.com/sirilalithaadapa/Recruitment_Management_System)
+- 🔭 I’m currently working on [FACE-VVIT](https://github.com/FACE-VVIT),[Recruitment Management System](https://github.com/sirilalithaadapa/Recruitment_Management_System)
 - ✔️ I also love to do competitive programming.<br>
 - 🌱 At present learning [Data Structure and Algorithms](https://github.com/sirilalithaadapa/ads) 👯
-- 🤔 I’m looking for help with [FACE-VVIT](https://github.com/FACE-VVIT),  [Engineering_Resources](https://github.com/sirilalithaadapa/Engineering_Resources) & [Recruitment Management System](https://github.com/sirilalithaadapa/Recruitment_Management_System)
+- 🤔 I’m looking for help with [FACE-VVIT](https://github.com/FACE-VVIT), [Recruitment Management System](https://github.com/sirilalithaadapa/Recruitment_Management_System)
 - 😎 The only way to become a clever programmer is to: Practice. Practice. Practice. Code. Code. Code !
 - 💬  Ask me about anything [Here](https://github.com/sirilalithaadapa/sirilalithaadapa/discussions)
 - 📫 How to reach me: [Post here](https://github.com/sirilalithaadapa/sirilalithaadapa/discussions)
