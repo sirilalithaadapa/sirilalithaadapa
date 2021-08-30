@@ -1,5 +1,8 @@
 ### Hey there, I'm [sirilalithaadapa](https://sirilalithaadapa.github.io)! 👋 👨‍💻 ![](https://komarev.com/ghpvc/?username=sirilalithaadapa&label=Views)
 
+![Metrics](https://metrics.lecoq.io/sirilalithaadapa?template=classic&languages=1&lines=1&achievements=1&activity=1&gists=1&stars=1&notable=1&introduction=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&stars.limit=4&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.repositories=false&config.timezone=Asia%2FCalcutta)
+
+
 - 🔭 I’m currently working on [FACE-VVIT](https://github.com/FACE-VVIT),[Recruitment Management System](https://github.com/sirilalithaadapa/Recruitment_Management_System)
 - ✔️ I also love to do competitive programming.<br>
 - 🌱 At present learning [Data Structure and Algorithms](https://github.com/sirilalithaadapa/ads) 👯
