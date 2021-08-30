@@ -34,6 +34,7 @@
 </hr>
 
 
+![Metrics](https://metrics.lecoq.io/sirilalithaadapa?template=classic&languages=1&isocalendar=1&habits=1&stars=1&music=1&wakatime=1&repositories=1&projects=1&people=1&achievements=1&discussions=1&traffic=1&lines=1&support=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&stars.limit=4&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&projects.limit=4&projects.descriptions=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&music.limit=4&music.played.at=false&music.user=.user.login&wakatime.days=7&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.limit=5&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=current&config.timezone=Asia%2FCalcutta)
 
 <!--END_SECTION:waka-->
   
