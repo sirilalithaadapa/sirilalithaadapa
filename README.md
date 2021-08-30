@@ -32,16 +32,6 @@
 <p><img src="https://metrics.lecoq.io/sirilalithaadapa"/></p>
    </div>
 </hr>
-<table>
-  <td align="center">
-    <img src="https://github.com/sirilalithaadapa/sirilalithaadapa/blob/master/metrics.plugin.isocalendar.svg">
-    <details><summary>Full year version</summary>
-      <img src="https://github.com/sirilalithaadapa/sirilalithaadapa/blob/master/metrics.plugin.isocalendar.fullyear.svg">
-    </details>
-    <img width="900" height="1" alt="">
-  </td>
-</table>
-
 <!--END_SECTION:waka-->
   
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
