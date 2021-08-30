@@ -32,14 +32,15 @@
 <p><img src="https://metrics.lecoq.io/sirilalithaadapa"/></p>
    </div>
 </hr>
-
-```yaml
-- uses: lowlighter/metrics@latest
-  with:
-    # ... other options
-    plugin_isocalendar: yes
-    plugin_isocalendar_duration: full-year # Display full year instead of half year
-```
+<table>
+  <td align="center">
+    <img src="https://github.com/sirilalithaadapa/sirilalithaadapa/blob/master/metrics.plugin.isocalendar.svg">
+    <details><summary>Full year version</summary>
+      <img src="https://github.com/sirilalithaadapa/sirilalithaadapa/blob/master/metrics.plugin.isocalendar.fullyear.svg">
+    </details>
+    <img width="900" height="1" alt="">
+  </td>
+</table>
 
 <!--END_SECTION:waka-->
   
