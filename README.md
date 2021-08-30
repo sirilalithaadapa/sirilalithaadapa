@@ -33,6 +33,23 @@
    </div>
 </hr>
 
+<table>
+  <td align="center">
+    <img src="https://github.com/lowlighter/sirilalithaadapa/blob/master/metrics.plugin.languages.svg">
+    <details open><summary>With both total bytes size and percentage version</summary>
+      <img src="https://github.com/lowlighter/sirilalithaadapa/blob/master/metrics.plugin.languages.details.svg">
+    </details>
+    <details open><summary>Recently used version (based on recent activity)</summary>
+      <img src="https://github.com/lowlighter/sirilalithaadapa/blob/master/metrics.plugin.languages.recent.svg">
+    </details>
+    <details><summary>Indepth analysis (clone, analyze and extract commits)</summary>
+      <img src="https://github.com/lowlighter/sirilalithaadapa/blob/master/metrics.plugin.languages.indepth.svg">
+    </details>
+    <img width="900" height="1" alt="">
+  </td>
+</table>
+
+
 <!--END_SECTION:waka-->
   
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
