@@ -40,7 +40,7 @@
       <img src="https://github.com/lowlighter/sirilalithaadapa/blob/master/metrics.plugin.languages.details.svg">
     </details>
     <details open><summary>Recently used version (based on recent activity)</summary>
-      <img src="https://github.com/lowlighter/sirilalithaadapa/blob/master/metrics.plugin.languages.recent.svg">
+      <img src="https://github.com/lowlighter/sirilalithaadapa/metrics.plugin.languages.recent.svg">
     </details>
     <details><summary>Indepth analysis (clone, analyze and extract commits)</summary>
       <img src="https://github.com/lowlighter/sirilalithaadapa/blob/master/metrics.plugin.languages.indepth.svg">
