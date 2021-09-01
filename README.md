@@ -6,8 +6,8 @@
 
 <a href="https://github.com/sirilalithaadapa/sirilalithaadapa">
   
-![](https://raw.githubusercontent.com/jstrieb/github-stats/master/generated/overview.svg)
-![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/sirilalithaadapa/github-stats/master/generated/overview.svg)
+![](https://github.com/sirilalithaadapa/github-stats/blob/master/generated/languages.svg)
 
 </a>
 
