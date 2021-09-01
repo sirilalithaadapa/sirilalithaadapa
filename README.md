@@ -2,6 +2,17 @@
 
 [![](https://user-images.githubusercontent.com/22963968/130322172-4e4996cd-eb3d-4013-9fc2-47e573413310.png)](#)
 
+<div align="center">
+
+<a href="https://github.com/sirilalithaadapa/sirilalithaadapa">
+  
+![](https://raw.githubusercontent.com/jstrieb/github-stats/master/generated/overview.svg)
+![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
+
+</a>
+
+</div>
+
 ![Metrics](https://metrics.lecoq.io/sirilalithaadapa?template=classic&languages=1&lines=1&achievements=1&activity=1&gists=1&stars=1&notable=1&introduction=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&stars.limit=4&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.repositories=false&config.timezone=Asia%2FCalcutta)
 
 <h3 align="left">Languages and Tools:</h3>
