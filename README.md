@@ -1,6 +1,6 @@
 ### Hey there, I'm [sirilalithaadapa](https://sirilalithaadapa.github.io)! 👋 👨‍💻 ![](https://komarev.com/ghpvc/?username=sirilalithaadapa&label=Views)
 
-- 🔭 I’m currently studying 3rd year in VVIT.
+- 🔭 I’m currently studying 3rd year in CSE.
 - ✔️ I also love to do competitive programming.<br>
 - 🌱 My Skills : Python,Java,Kotlin
 - 😎 The only way to become a clever programmer is to: Practice. Practice. Practice. Code. Code. Code !
