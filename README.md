@@ -7,6 +7,12 @@
 - 💬  Ask me about anything [Here](https://github.com/sirilalithaadapa/sirilalithaadapa/discussions)
 - 📫 How to reach me: [Post here](https://github.com/sirilalithaadapa/sirilalithaadapa/discussions)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sirilalithaadapa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+## ✨GitHub Stats  : 
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sirilalithaadapa&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sirilalithaadapa&theme=tokyonight" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirilalithaadapa&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
+<br/>  
+
+![sirilalithaadapa's github activity graph](https://activity-graph.herokuapp.com/graph?username=sirilalithaadapa&theme=nord) 
