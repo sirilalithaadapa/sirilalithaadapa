@@ -3,7 +3,7 @@
 - 🔭 Currently I’m pre-final year student in CSE at Vasireddy Venkatadri Institute of technology...
 - 💻 I usually code in *Python* , *Java* and *Javascript*
 - 🌱 I’m currently learning **React**
-- 🔭 I’m currently working on my mini-project **Counselling**
+- 🔭 I’m currently working on my mini-project **Student Counselling System**
 - ✔️ I also love to do problem-solving, competitive programming and Constructing projects .<br>
 - 😎 The only way to become a clever programmer is to: Practice. Practice. Practice. Code. Code. Code !
 - 💬  Ask me about anything [Here](https://github.com/sirilalithaadapa/sirilalithaadapa/discussions)
