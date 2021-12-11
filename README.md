@@ -1,11 +1,10 @@
 ### Hey there, I'm [sirilalithaadapa](https://sirilalithaadapa.github.io)! 👋 👨‍💻 ![](https://komarev.com/ghpvc/?username=sirilalithaadapa&label=Views)
 
 - 🔭 Currently I’m pre-final year student in CSE at Vasireddy Venkatadri Institute of technology...
-- ✔️ I also love to do competitive programming.<br>
-- 💡 I'm passionate about problem-solving, exploring new technologies, and building cool projects
 - 💻 I usually code in *Python* , *Java* and *Javascript*
-- 🌱 I’m currently learning **DSA**
-- 🔭 I’m currently working on my mini-project *Counselling*
+- 🌱 I’m currently learning **React**
+- 🔭 I’m currently working on my mini-project **Counselling **
+- ✔️ I also love to do problem-solving, competitive programming and Constructing projects .<br>
 - 😎 The only way to become a clever programmer is to: Practice. Practice. Practice. Code. Code. Code !
 - 💬  Ask me about anything [Here](https://github.com/sirilalithaadapa/sirilalithaadapa/discussions)
 - 📫 How to reach me: [Post here](https://github.com/sirilalithaadapa/sirilalithaadapa/discussions)
