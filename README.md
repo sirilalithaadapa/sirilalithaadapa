@@ -1,11 +1,16 @@
 ### Hey there, I'm [sirilalithaadapa](https://sirilalithaadapa.github.io)! 👋 👨‍💻 ![](https://komarev.com/ghpvc/?username=sirilalithaadapa&label=Views)
 
-- 🔭 I’m currently studying 3rd year in CSE.
+- 🔭 Currently I’m pre-final year student in CSE at Vasireddy Venkatadri Institute of technology...
 - ✔️ I also love to do competitive programming.<br>
-- 🌱 My Skills : Python,Java,Kotlin
+- 💡 I'm passionate about problem-solving, exploring new technologies, and building cool projects
+- 💻 I usually code in *Python* , *Java* and *Javascript*
+- 🌱 I’m currently learning **DSA**
+- 🔭 I’m currently working on my mini-project *Counselling*
 - 😎 The only way to become a clever programmer is to: Practice. Practice. Practice. Code. Code. Code !
 - 💬  Ask me about anything [Here](https://github.com/sirilalithaadapa/sirilalithaadapa/discussions)
 - 📫 How to reach me: [Post here](https://github.com/sirilalithaadapa/sirilalithaadapa/discussions)
+- 😄 Pronouns: She/Her
+
 
 ## ✨GitHub Stats  : 
 <div align="center">
@@ -13,6 +18,10 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sirilalithaadapa&theme=tokyonight" />
 </div>
 
+
 <br/>  
 
 ![sirilalithaadapa's github activity graph](https://activity-graph.herokuapp.com/graph?username=sirilalithaadapa&theme=nord) 
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vnaazleen" alt="Profile Visitors" /> </p>
