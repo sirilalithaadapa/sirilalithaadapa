@@ -1,7 +1,7 @@
 ### Hey there, I'm [sirilalithaadapa](https://sirilalithaadapa.github.io)! 👋 👨‍💻 ![](https://komarev.com/ghpvc/?username=sirilalithaadapa&label=Views)
 
 - 🔭 Currently I’m pre-final year student in CSE at Vasireddy Venkatadri Institute of technology...
-- 💻 I usually code in *Python* , *Java* and *Javascript*
+- 💻 I usually code in *C* , *Python* , *Java* and *Javascript*  *Kotlin* ,
 - 🌱 I’m currently learning **React**
 - 🔭 I’m currently working on my mini-project **Student Counselling**
 - ✔️ I also love to do problem-solving, competitive programming and Constructing projects .<br>
