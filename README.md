@@ -1,5 +1,16 @@
 ### Hey there, I'm [sirilalithaadapa](https://sirilalithaadapa.github.io)! 👋 👨‍💻 ![](https://komarev.com/ghpvc/?username=sirilalithaadapa&label=Views)
 
+<a href="https://www.linkedin.com/in/siri-lalitha-adapa-5417451b6//">
+  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/SiriLalitha1">
+  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:sirilalitha9088@gmail.com">
+  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<br />
+
 - 🔭 Currently I’m pre-final year student in CSE at Vasireddy Venkatadri Institute of technology...
 - 💻 I usually code in *C* , *Python* , *Java* , *Kotlin* and *Javascript*
 - 🌱 I’m currently learning **React**
