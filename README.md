@@ -46,6 +46,3 @@
 <br/>  
 
 ![sirilalithaadapa's github activity graph](https://activity-graph.herokuapp.com/graph?username=sirilalithaadapa&theme=nord) 
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vnaazleen" alt="Profile Visitors" /> </p>
