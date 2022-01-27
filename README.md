@@ -37,7 +37,7 @@
   <h3> CODE CODE CODE! <h3>
 
     
-p>
+<p>
 - 💻  &nbsp; Data Structures & Algorithms | C | Java   
   </p><p>
 - 🌐  &nbsp; HTML | CSS | JavaScript | React
