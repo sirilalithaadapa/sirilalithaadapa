@@ -36,6 +36,21 @@
  
   <h3> CODE CODE CODE! <h3>
 
+    
+p>
+- 💻  &nbsp; Data Structures & Algorithms | C | Java   
+  </p><p>
+- 🌐  &nbsp; HTML | CSS | JavaScript | React
+  </p><p>
+- 🐍  &nbsp;  Python | Jupyter 
+  </p><p>
+- ☁  &nbsp; Operating System | Database | SQL
+  </p><p>
+- 🔧  &nbsp; Visual Studio code | Sublime | PyCharm | Anaconda | Git | Github
+  </p>
+    
+    
+    
 <div align="center">
   <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats... </b></i>📈<br><br>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sirilalithaadapa&show_icons=true&theme=tokyonight" />
