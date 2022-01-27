@@ -15,16 +15,26 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirilalithaadapa&label=Profile%20views&color=0e75b6&style=flat" alt="sirilalithaadapa" /> </p>
 </p>
 
-- 🔭 Currently I’m pre-final year student in CSE at Vasireddy Venkatadri Institute of technology...
-- 💻 I usually code in *C* , *Python* , *Java* , *Kotlin* and *Javascript*
-- 🌱 I’m currently learning **React**
-- 🔭 I’m currently working on my mini-project **Student Counselling**
-- ✔️ I also love to do problem-solving, competitive programming and Constructing projects .<br>
-- 😎 The only way to become a clever programmer is to: Practice. Practice. Practice. Code. Code. Code !
-- 💬  Ask me about anything [Here](https://github.com/sirilalithaadapa/sirilalithaadapa/discussions)
-- 📫 How to reach me: [Post here](https://github.com/sirilalithaadapa/sirilalithaadapa/discussions)
-- 😄 Pronouns: She/Her
 
+<h3> About Me  🚀 </h3>
+<p>
+🔭 I’m pre-final year student in *CSE* at Vasireddy Venkatadri Institute of technology...
+</p><p>
+📎 In my free time I love to learn about latest technologies and work on my logic building skills.
+</p><p>
+📚 Self Motivation + Commitment + Technology + Ideas + Team Player + Optimism - Motto of my life!
+</p><p>
+🌱 Enthusiast in Open Source, Web Development and DEVOPS.</p>
+<p>
+🌱 I’m currently learning **React**</p>
+<p>
+🤔 I’m currently working on my mini-project **Student Counselling**.</p>
+<p>
+✔️ I also love to do problem-solving, competitive programming and Constructing projects</p>
+<p>
+☕ Coffee can be the ultimate solution for any stress. Coffee <-> Code </p>
+ 
+  <h3> CODE CODE CODE! <h3>
 
 ## ✨GitHub Stats  : 
 <div align="center">
