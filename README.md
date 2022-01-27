@@ -11,7 +11,9 @@
 </a>
 <br />
 
-
+<p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nistha-tech&label=Profile%20views&color=0e75b6&style=flat" alt="Nistha-tech" /> </p>
+</p>
 
 - 🔭 Currently I’m pre-final year student in CSE at Vasireddy Venkatadri Institute of technology...
 - 💻 I usually code in *C* , *Python* , *Java* , *Kotlin* and *Javascript*
