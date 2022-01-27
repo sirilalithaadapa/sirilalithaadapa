@@ -18,7 +18,7 @@
 
 <h3> About Me  🚀 </h3>
 <p>
-🔭 I’m pre-final year student in *CSE* at Vasireddy Venkatadri Institute of technology...
+🔭 I’m pre-final year student in CSE at Vasireddy Venkatadri Institute of technology...
 </p><p>
 📎 In my free time I love to learn about latest technologies and work on my logic building skills.
 </p><p>
@@ -26,9 +26,9 @@
 </p><p>
 🌱 Enthusiast in Open Source, Web Development and DEVOPS.</p>
 <p>
-🌱 I’m currently learning **React**</p>
+🌱 I’m currently learning React</p>
 <p>
-🤔 I’m currently working on my mini-project **Student Counselling**.</p>
+🤔 I’m currently working on my mini-project Student Counselling.</p>
 <p>
 ✔️ I also love to do problem-solving, competitive programming and Constructing projects</p>
 <p>
