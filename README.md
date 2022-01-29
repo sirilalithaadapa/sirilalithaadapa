@@ -1,4 +1,4 @@
-### Hey there, I'm [sirilalithaadapa](https://sirilalithaadapa.github.io)! 👋 👨‍💻 ![](https://komarev.com/ghpvc/?username=sirilalithaadapa&label=Views)
+### Hey there, I'm [sirilalithaadapa](https://sirilalithaadapa.github.io)! 👋 👨‍💻
 
 <a href="https://www.linkedin.com/in/siri-lalitha-adapa-5417451b6//">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
