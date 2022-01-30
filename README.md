@@ -50,16 +50,16 @@
   </p>
     
     
- <summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirilalithaadapa&theme=github_dark" alt="sirilalithaadapa" align = "center"/></p>
-    
 <div align="center">
   <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats... </b></i>📈<br><br>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sirilalithaadapa&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sirilalithaadapa&theme=tokyonight" />
 </div>
 
-
+<summary><b>🔎 Github Profile Details</b></summary>
+    
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirilalithaadapa&theme=github_dark" alt="sirilalithaadapa" align = "center"/></p>
+    
 <br/>  
 
 ![sirilalithaadapa's github activity graph](https://activity-graph.herokuapp.com/graph?username=sirilalithaadapa&theme=nord) 
