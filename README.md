@@ -35,7 +35,6 @@
 ☕ Coffee can be the ultimate solution for any stress. Coffee <-> Code </p>
  
   <h3> CODE CODE CODE! <h3>
-
     
 <p>
 - 💻  &nbsp; Data Structures & Algorithms | C | Java   
@@ -48,7 +47,6 @@
   </p><p>
 - 🔧  &nbsp; Visual Studio code | Sublime | PyCharm | Anaconda | Git | Github
   </p>
-    
     
 <div align="center">
   <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats... </b></i>📈<br><br>
