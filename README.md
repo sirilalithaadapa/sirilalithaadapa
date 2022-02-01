@@ -52,9 +52,10 @@
   <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats... </b></i>📈<br><br>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sirilalithaadapa&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sirilalithaadapa&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tewarig&theme=vue&layout=compact" />
 </div>
 
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirilalithaadapa&langs_count=9)](https://github.com/sirilalithaadapa/sirilalithaadapa)
+    
 <summary><b>🔎 Github Profile Details</b></summary>
     
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirilalithaadapa&theme=github_dark" alt="sirilalithaadapa" align = "center"/></p>
