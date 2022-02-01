@@ -54,7 +54,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sirilalithaadapa&theme=tokyonight" />
 </div>
 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirilalithaadapa&langs_count=9)](https://github.com/sirilalithaadapa/sirilalithaadapa)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirilalithaadapa&langs_count=9)](https://github.com/anuraghazra/github-readmestats)
     
 <summary><b>🔎 Github Profile Details</b></summary>
     
