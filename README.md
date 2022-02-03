@@ -26,7 +26,7 @@
 </p><p>
 🌱 Enthusiast in Open Source, Web Development and DEVOPS.</p>
 <p>
-🌱 I’m currently learning React</p>
+🌱 I’m currently learning MERN-STACK</p>
 <p>
 🤔 I’m currently working on my mini-project Student Counselling.</p>
 <p>
