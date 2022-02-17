@@ -58,21 +58,7 @@
 <summary><b>🔎 Github Profile Details</b></summary>
     
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirilalithaadapa&theme=github_dark" alt="sirilalithaadapa" align = "center"/></p>
-
-{
-  "data": {
-    "viewer": {
-      "login": "sirilalithaadapa",
-      "contributionsCollection": {
-        "restrictedContributionsCount": 1,
-        "contributionCalendar": {
-          "totalContributions": 1152
-        }
-      }
-    }
-  }
-}
-    
+  
 <br/>  
 
 ![sirilalithaadapa's github activity graph](https://activity-graph.herokuapp.com/graph?username=sirilalithaadapa&theme=nord) 
