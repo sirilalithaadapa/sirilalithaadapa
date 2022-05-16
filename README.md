@@ -23,14 +23,11 @@
 📎 In my free time I love to learn about latest technologies and work on my logic building skills.
 </p><p>
 📚 Self Motivation + Commitment + Technology + Ideas + Team Player + Optimism - Motto of my life!
-</p><p>
-🌱 Enthusiast in Open Source, Web Development and DEVOPS.</p>
-<p>
-🌱 I’m currently learning MERN-STACK</p>
+</p>
 <p>
 🤔 I’m currently working on my mini-project Student Counselling.</p>
 <p>
-✔️ I also love to do problem-solving, competitive programming and Constructing projects</p>
+✔️ I also like to do problem-solving, competitive programming and Constructing projects</p>
 <p>
 ☕ Coffee can be the ultimate solution for any stress. Coffee <-> Code </p>
  
