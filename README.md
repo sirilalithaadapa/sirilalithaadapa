@@ -18,14 +18,9 @@
 
 <h3> About Me  🚀 </h3>
 <p>
-🔭 I’m pre-final year student in CSE at Vasireddy Venkatadri Institute of technology...
+🔭 I’m Final year student in CSE at Vasireddy Venkatadri Institute of technology...
 </p><p>
-📎 In my free time I love to learn about latest technologies and work on my logic building skills.
-</p><p>
-📚 Self Motivation + Commitment + Technology + Ideas + Team Player + Optimism - Motto of my life!
-</p>
-<p>
-🤔 I’m currently working on my mini-project Student Counselling.</p>
+🤔 I’m currently working on my Major-Project Music Genre Classification.</p>
 <p>
 ✔️ I also like to do problem-solving, competitive programming and Constructing projects</p>
 <p>
@@ -39,10 +34,6 @@
 - 🌐  &nbsp; HTML | CSS | JavaScript | React
   </p><p>
 - 🐍  &nbsp;  Python | Jupyter 
-  </p><p>
-- ☁  &nbsp; Operating System | Database | SQL
-  </p><p>
-- 🔧  &nbsp; Visual Studio code | Sublime | PyCharm | Anaconda | Git | Github
   </p>
     
 <div align="center">
