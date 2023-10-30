@@ -1,10 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Siri Lalitha Adapa</h1>
 <h3 align="center">A passionate in DATA SCIENCE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirilalithaadapa&label=Profile%20views&color=0e75b6&style=flat" alt="sirilalithaadapa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sirilalithaadapa" alt="sirilalithaadapa" /></a> </p>
 
 - 🌱 I’m currently learning **POWER BI**
 
