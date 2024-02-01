@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **POWER BI**
 
-- 💬 Ask me about **Python, Data science, Web Development, SQL**
+- 💬 Ask me about **Python, SQL, Data Science, Data Cleaning, EDA, Machine Learning**
 
 - 📫 How to reach me **sirilalitha9088@gmail.com**
 
