@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirilalithaadapa&label=Profile%20views&color=0e75b6&style=flat" alt="sirilalithaadapa" /> </p>
 
-- 🌱 I’m currently learning **CHATBOT**
+- 🌱 I’m currently learning **JS**
 
 - 💬 Ask me about **Python, SQL, Data Science, Data Cleaning, EDA, Machine Learning, WebDevelopment, Power BI**
 
