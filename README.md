@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirilalithaadapa&label=Profile%20views&color=0e75b6&style=flat" alt="sirilalithaadapa" /> </p>
 
- - 😂 Styling harry after work hours  
+ - 😂 **Styling harry after work hours**  
 
 - 🌱 I’m currently learning **Styling Codes**
 
