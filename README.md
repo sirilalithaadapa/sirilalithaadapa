@@ -5,7 +5,7 @@
 
  - 😂 Styling harry after work hours  
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **Styling Codes**
 
 - 💬 Ask me about **Python, SQL, Data Science, Data Cleaning, EDA, Machine Learning, WebDevelopment, Power BI**
 
