@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siri Lalitha Adapa</h1>
-<h3 align="center">I am passionate in DATA SCIENCE</h3>
+<h3 align="center">I am passionate in AI  and Building 🤖</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirilalithaadapa&label=Profile%20views&color=0e75b6&style=flat" alt="sirilalithaadapa" /> </p>
 
