@@ -9,7 +9,8 @@
 
 - 💬 Ask me about **Python, SQL, Data Science, Data Cleaning, EDA, Machine Learning, WebDevelopment, Power BI, ChatBots, Automations**
 
-- 📫 How to reach me **sirilalitha9088@gmail.com**
+- 📫 You can reach out to me at **sirilalitha9088@gmail.com** for anything :)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
