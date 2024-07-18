@@ -1,9 +1,3 @@
-
-## 🎶 Now Playing
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/r6emdn0hviwjytufnr9f2ck51)
-
-
 <h1 align="center">Hi 👋, I'm Siri Lalitha Adapa</h1>
 <h3 align="center">I am passionate in AI  and Building 🤖</h3>
 
@@ -19,6 +13,11 @@
 ---
 
 Looking forward to connecting with you and exploring opportunities for innovation and growth in the dynamic field of data science and technology!
+
+
+## 🎶 Now Playing
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/r6emdn0hviwjytufnr9f2ck51)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
