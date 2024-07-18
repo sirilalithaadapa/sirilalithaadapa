@@ -9,14 +9,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirilalithaadapa&label=Profile%20views&color=0e75b6&style=flat" alt="sirilalithaadapa" /> </p>
 
- - 😂 **Styling harry after work hours**  
+- 🌱 I’m currently working on **Styling Codes** and enhancing my skills in **Data Science** and **Web Development**
+- 💬 Ask me about **Python, SQL, Data Science, Data Cleaning, Exploratory Data Analysis (EDA), Machine Learning, Web Development, Power BI, ChatBots, and Automations**
+- 💻 I have a passion for transforming data into actionable insights and creating innovative web solutions
+- 🎯 My expertise includes **Power BI, Python (NumPy, Pandas), MySQL, and advanced data visualization techniques**
+- 🚀 I enjoy collaborating on projects that drive **data-driven decisions** and **optimization strategies**
+- 📫 You can reach me at **sirilalitha9088@gmail.com** for any inquiries or collaborations
 
-- 🌱 I’m currently **Styling Codes**
+---
 
-- 💬 Ask me about **Python, SQL, Data Science, Data Cleaning, EDA, Machine Learning, WebDevelopment, Power BI, ChatBots, Automations**
-
-- 📫 You can reach out to me at **sirilalitha9088@gmail.com** for anything :)
-
+Looking forward to connecting with you and exploring opportunities for innovation and growth in the dynamic field of data science and technology!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
